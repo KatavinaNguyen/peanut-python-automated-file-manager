@@ -110,7 +110,7 @@ class AutoCleanHandler:
             self.save_settings()
 
             directories = [
-                r"C:\Users\nnawh\OneDrive\Desktop",
+                os.path.join(self.user_home_directory, 'Desktop'),
                 os.path.join(self.user_home_directory, 'Downloads'),
                 os.path.join(self.user_home_directory, 'Desktop'),
                 os.path.join(self.user_home_directory, 'AppData', 'Local', 'Temp')

@@ -52,4 +52,4 @@ Navigate the 3 tabs at the top of the **Main Screen**.
 + Try out **MultiSearch** for complex file operations.<br><br>
 
 <img src="images/readmepngs/ac-lightmode.png" width="500"> <img src="images/readmepngs/ac-lightmode.png" width="500">
-<img src="images/readmepngs/ad.png" width="500"> <img src="images/readmepngs/ms.png" width="500">
+<img src="images/readmepngs/ad.png" width="500"> <img src="https://github.com/user-attachments/assets/7a5bed96-2c75-4d6e-af3e-e3b01ba91110" width="500">

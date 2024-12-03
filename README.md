@@ -9,7 +9,7 @@ Automatically clean up your system by:
 * Removing unused files
 * Eliminating duplicate files
 * Cleaning out your recycling bin
-* Clear your browser history 
+* Clearing your browser history 
 ### AutoDirect
 Organize your files by setting up customizable rules based on keywords. 
 ### MultiSearch 
